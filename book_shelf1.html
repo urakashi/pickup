@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+
+<link rel="stylesheet" type="text/css" href="css/flipbook.style.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+
+<script src="js/flipbook.min.js"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $(".book-1").flipBook({
+            pages:[
+                {src:"images/book2/pickup-0-front.jpg", thumb:"images/book2/thumb0-front.jpg", title:"Cover"},
+                {src:"images/book2/pickup-0.jpg", thumb:"images/book2/thumb0.jpg", title:"0"},
+                {src:"images/book2/pickup-1.jpg", thumb:"images/book2/thumb1.jpg", title:"1"},
+                {src:"images/book2/pickup-2.jpg", thumb:"images/book2/thumb2.jpg", title:"2"},
+                {src:"images/book2/pickup-3.jpg", thumb:"images/book2/thumb3.jpg", title:"3"},
+                {src:"images/book2/pickup-4.jpg", thumb:"images/book2/thumb4.jpg", title:"4"},
+                {src:"images/book2/pickup-5.jpg", thumb:"images/book2/thumb5.jpg", title:"5"},
+                {src:"images/book2/pickup-6.jpg", thumb:"images/book2/thumb6.jpg", title:"6"}
+                {src:"images/book2/pickup-7.jpg", thumb:"images/book2/thumb7.jpg", title:"7"}
+                {src:"images/book2/pickup-8.jpg", thumb:"images/book2/thumb8.jpg", title:"8"}
+                {src:"images/book2/pickup-9.jpg", thumb:"images/book2/thumb9.jpg", title:"9"}
+                {src:"images/book2/pickup-10.jpg", thumb:"images/book2/thumb10.jpg", title:"10"}
+                {src:"images/book2/pickup-11.jpg", thumb:"images/book2/thumb11.jpg", title:"11"}
+                {src:"images/book2/pickup-12.jpg", thumb:"images/book2/thumb12.jpg", title:"12"}
+                {src:"images/book2/pickup-13.jpg", thumb:"images/book2/thumb13.jpg", title:"13"}
+                {src:"images/book2/pickup-14.jpg", thumb:"images/book2/thumb14.jpg", title:"14"}
+                {src:"images/book2/pickup-15.jpg", thumb:"images/book2/thumb15.jpg", title:"15"}
+                {src:"images/book2/pickup-16.jpg", thumb:"images/book2/thumb16.jpg", title:"16"}
+                {src:"images/book2/pickup-17.jpg", thumb:"images/book2/thumb17.jpg", title:"17"}
+                {src:"images/book2/pickup-18.jpg", thumb:"images/book2/thumb18.jpg", title:"18"}
+                {src:"images/book2/pickup-19.jpg", thumb:"images/book2/thumb19.jpg", title:"19"}
+                {src:"images/book2/pickup-20.jpg", thumb:"images/book2/thumb20.jpg", title:"20"}
+                {src:"images/book2/pickup-21.jpg", thumb:"images/book2/thumb21.jpg", title:"21"}
+                {src:"images/book2/pickup-22.jpg", thumb:"images/book2/thumb22.jpg", title:"22"}
+                {src:"images/book2/pickup-23.jpg", thumb:"images/book2/thumb23.jpg", title:"23"}
+                {src:"images/book2/pickup-24.jpg", thumb:"images/book2/thumb24.jpg", title:"24"}
+                {src:"images/book2/pickup-25.jpg", thumb:"images/book2/thumb25.jpg", title:"25"}
+                {src:"images/book2/pickup-26.jpg", thumb:"images/book2/thumb26.jpg", title:"26"}
+                {src:"images/book2/pickup-27.jpg", thumb:"images/book2/thumb27.jpg", title:"27"}
+                {src:"images/book2/pickup-28.jpg", thumb:"images/book2/thumb28.jpg", title:"28"}
+                {src:"images/book2/pickup-29.jpg", thumb:"images/book2/thumb29.jpg", title:"29"}
+                {src:"images/book2/pickup-30.jpg", thumb:"images/book2/thumb30.jpg", title:"30"}
+                {src:"images/book2/pickup-31.jpg", thumb:"images/book2/thumb31.jpg", title:"31"}
+                {src:"images/book2/pickup-32.jpg", thumb:"images/book2/thumb32.jpg", title:"32"}
+                {src:"images/book2/pickup-33.jpg", thumb:"images/book2/thumb33.jpg", title:"33"}
+                {src:"images/book2/pickup-34.jpg", thumb:"images/book2/thumb34.jpg", title:"34"}
+                {src:"images/book2/pickup-35.jpg", thumb:"images/book2/thumb35.jpg", title:"35"}
+                {src:"images/book2/pickup-36.jpg", thumb:"images/book2/thumb36.jpg", title:"36"}
+                {src:"images/book2/pickup-37.jpg", thumb:"images/book2/thumb37.jpg", title:"37"}
+                {src:"images/book2/pickup-38.jpg", thumb:"images/book2/thumb38.jpg", title:"38"}
+                {src:"images/book2/pickup-39.jpg", thumb:"images/book2/thumb39.jpg", title:"39"}
+                {src:"images/book2/pickup-40.jpg", thumb:"images/book2/thumb40.jpg", title:"40"}
+                {src:"images/book2/pickup-41.jpg", thumb:"images/book2/thumb41.jpg", title:"41"}
+                {src:"images/book2/pickup-42-back.jpg", thumb:"images/book2/thumb42-back.jpg", title:"42"}
+            ],
+            lightBox:true
+        });
+
+    })
+</script>
+
+<style type="text/css">
+    .bookshelf .thumb{
+        display: inline-block;
+        cursor: pointer;
+        margin: 0px 0.5%;
+        width: 15% !important;
+        box-shadow:0px 1px 3px rgba(0,0,0,.3);
+        max-width:100px;
+    }
+    .bookshelf .thumb img{
+        width:100%;
+        display:block;
+        vertical-align:top;
+    }
+    .bookshelf .shelf-img{
+        z-index:0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top:-12px;
+    }
+    .bookshelf .covers{
+        width:100%;
+        height:auto;
+        z-index: 99;
+        position: relative;
+        text-align:center;
+    }
+    .bookshelf{
+        text-align: center;
+        padding:0px;
+    }
+</style>
+
+</head>
+
+<body>
+
+    <div class="bookshelf">
+        <div class="covers">
+            <div class="thumb book-1"><img src="images/book2/thumb0-front.jpg"></div>
+        </div>
+        <img class="shelf-img" src="images/shelf_wood.png">
+    </div>
+
+
+
+</body>
+
+</html>
