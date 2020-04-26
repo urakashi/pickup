@@ -1,6 +1,6 @@
 var $=jQuery.noConflict();
 
-$(document).ready(function () {
+$(document).ready(function ($) {
     $(".book-1").flipBook({
         pages:[
             {src:"https://uploads-ssl.webflow.com/5a85a0563aa1e00001ebb98d/5ea4c5305186cf672606a513_pickup-0-front.jpg", thumb:"https://uploads-ssl.webflow.com/5a85a0563aa1e00001ebb98d/5ea5d68b8ad6b67eb29a3985_thumb0-front.jpg", title:"PICK UP 表紙"},
