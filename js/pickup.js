@@ -1,3 +1,5 @@
+var $=jQuery.noConflict();
+
 $(document).ready(function () {
     $(".book-1").flipBook({
         pages:[
