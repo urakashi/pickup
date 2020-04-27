@@ -51,8 +51,7 @@ $(document).ready(function () {
         btnPrint:{enabled:false},
         btnDownloadPages:{enabled:false},
         btnDownloadPdf:{enabled:false},
-        mobile:{btnExpand:false},
-        mobile: { shadows: false}
+        mobile:{btnExpand:false, shadows:false}
     });
 
 })
