@@ -48,6 +48,7 @@ $(document).ready(function () {
         ],
         lightBox:true,
         deeplinkingPrefix:"book1_",
+        btnPrint:{enabled:false},
         mobile: { shadows: false}
     });
 
