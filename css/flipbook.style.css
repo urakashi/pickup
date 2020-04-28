@@ -288,17 +288,10 @@
 
 .flipbook-page-htmlContent {
     position: absolute;
-    /* float:  left; */
     top: 0;
     left: 0;
     transform-origin: 0 0;
     z-index: 50;
-    transform: translateZ(0px);
-    /* -webkit-transform:translateZ(0px); */
-    -backface-visibility: hidden;
-    /* -webkit-backface-visibility: hidden; */
-    /* transform-style: preserve-3d; */
-    /* -webkit-transform-style: preserve-3d; */
 }
 
 .flipbook-page-htmlContent video, .flipbook-page-htmlContent iframe{
@@ -626,7 +619,6 @@
 .flipbook-thumbHolder {
     bottom: 0;
     position: absolute;
-    left: 0;
     top: 0;
     z-index: 9;
     width: 250px;
@@ -1898,7 +1890,14 @@
     text-align:center;
 }
 
-
+.flipbook-disable-text-selection{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
 
 
 
