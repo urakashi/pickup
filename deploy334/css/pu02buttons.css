@@ -1,0 +1,259 @@
+.btn02-topright {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 20px;
+  right: 54px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-ayubowan {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 420px;
+  left: 56px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-brille {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 365px;
+  right: 35px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-filter {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 20px;
+  right: 335px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-globar {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 270px;
+  right: 35px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-iii3 {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 330px;
+  right: 100px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-maue {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 422px;
+  right: 46px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-nuizaemon {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 40px;
+  right: 190px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-sunday {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 260px;
+  right: 270px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-tunaya {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 370px;
+  right: 56px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-kt {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 450px;
+  right: 30px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-sakana {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 40px;
+  right: 360px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
+
+.btn02-nui {
+  min-width: 110px;
+  background: linear-gradient(to right, #ff3019 0%, #c90477 100%);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  transition: all 0.2s ease-in-out;
+  margin-right: 10px;
+  position: absolute;
+  top: 230px;
+  right: 210px;
+  align-self: center;
+  font-family: system-iu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 20px -15px rgba(0, 0, 0, 0.9);
+}
