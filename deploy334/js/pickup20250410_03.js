@@ -1,4 +1,4 @@
-w$(document).ready(function () {
+$(document).ready(function () {
 
   $(".book-5").flipBook({
     pages: [
